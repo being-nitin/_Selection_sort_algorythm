@@ -33,3 +33,7 @@ public class Main {
     }
 }
 // Steps to follow while concluding the algorithm:
+/*
+1. find the index of the element which is the maximum in the array
+2. swap it with the last index.
+ */
