@@ -36,4 +36,5 @@ public class Main {
 /*
 1. find the index of the element which is the maximum in the array
 2. swap it with the last index.
+3. repeat till last index come to the first index
  */
